@@ -1,0 +1,136 @@
+{
+  "header": {
+    "homeAria": "qursy — strona główna",
+    "mainNav": "Główna nawigacja",
+    "mobileNav": "Nawigacja mobilna",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu",
+    "organizers": {
+      "whatIs": "Czym jest qursy",
+      "benefits": "Dla organizatorów",
+      "howToJoin": "Jak dołączyć",
+      "apply": "Zgłoś się",
+      "cta": "Zgłoś pracownię"
+    }
+  },
+  "heroSection": {
+    "badge": "Dołącz przed startem — wersja przedpremierowa",
+    "titlePrefix": "Wypełnij salę na",
+    "titleHighlight": "każdych warsztatach",
+    "description": "<qursy>qursy</qursy> to nowa platforma, na której ludzie odkrywają warsztaty, kursy i wydarzenia rozwojowe. Dołącz jako organizator jeszcze przed startem i bądź widoczny od pierwszego dnia.",
+    "primaryCta": "Zgłoś swoją pracownię",
+    "secondaryCta": "Dowiedz się więcej",
+    "imageAlt": "Warsztaty rzemieślnicze w jasnej, przytulnej pracowni"
+  },
+  "whatIsQursySection": {
+    "eyebrow": "czym jest qursy?",
+    "title": "Miejsce, w którym pasja spotyka uczestników",
+    "description": "Zamiast rozproszonych postów w social mediach, <qursy>qursy</qursy> zbiera wszystkie zajęcia rozwojowe w jednym miejscu — łatwym do przeszukiwania dla osób, które chcą się rozwijać.",
+    "items": {
+      "catalog": {
+        "title": "Jedna wyszukiwarka",
+        "text": "Warsztaty, kursy i wydarzenia w jednym katalogu — uczestnicy łatwo znajdą to, czego szukają."
+      },
+      "local": {
+        "title": "Blisko Ciebie",
+        "text": "Odkrywanie zajęć w okolicy — idealne dla pracowni i lokalnych organizatorów."
+      },
+      "passion": {
+        "title": "Pasja na pierwszym miejscu",
+        "text": "Platforma stworzona z myślą o twórcach, którzy chcą dzielić się swoją wiedzą i umiejętnościami."
+      }
+    }
+  },
+  "benefitsSection": {
+    "eyebrow": "dla organizatorów",
+    "title": "Wszystko, czego potrzebujesz, by prowadzić zajęcia",
+    "description": "Skup się na tym, co robisz najlepiej — my zajmiemy się widocznością, zapisami i organizacją.",
+    "imageAlt": "Organizatorka witająca gości w swojej pracowni",
+    "items": {
+      "visibility": {
+        "title": "Większa widoczność",
+        "text": "Dotrzyj do osób aktywnie szukających warsztatów — nie tylko obserwujących social media."
+      },
+      "registrations": {
+        "title": "Zapisy online",
+        "text": "Uczestnicy zapisują się przez platformę — mniej wiadomości i telefonów do obsługi."
+      },
+      "profile": {
+        "title": "Profil pracowni",
+        "text": "Prezentuj swoją ofertę, zdjęcia i opis w jednym, spójnym miejscu."
+      },
+      "support": {
+        "title": "Wsparcie na start",
+        "text": "Pomożemy Ci skonfigurować profil i przygotować pierwsze wydarzenia."
+      }
+    }
+  },
+  "howItWorksSection": {
+    "eyebrow": "jak dołączyć?",
+    "title": "Trzy proste kroki",
+    "items": {
+      "apply": {
+        "title": "Wypełnij formularz",
+        "text": "Zostaw nam dane swojej pracowni — zajmie to kilka minut."
+      },
+      "confirm": {
+        "title": "Potwierdzimy zgłoszenie",
+        "text": "Skontaktujemy się, gdy platforma będzie gotowa dla organizatorów."
+      },
+      "launch": {
+        "title": "Startujesz z qursy",
+        "text": "Dodajesz wydarzenia i zaczynasz przyjmować zapisy od uczestników."
+      }
+    }
+  },
+  "leadFormSection": {
+    "badge": "Bezpłatne dołączenie na start",
+    "title": "Zgłoś swoją pracownię do qursy",
+    "description": "Zostaw nam swoje dane, a odezwiemy się z dostępem, gdy tylko uruchomimy platformę dla organizatorów.",
+    "fields": {
+      "name": "Imię i nazwisko",
+      "email": "Adres e-mail",
+      "phone": "Telefon",
+      "workshopName": "Nazwa pracowni / marki",
+      "city": "Miasto",
+      "message": "Krótki opis zajęć (opcjonalnie)"
+    },
+    "placeholders": {
+      "name": "Anna Kowalska",
+      "email": "anna@example.com",
+      "phone": "+48 600 000 000",
+      "workshopName": "Pracownia ceramiki",
+      "city": "Warszawa",
+      "message": "Opisz, jakie warsztaty prowadzisz..."
+    },
+    "submit": "Wyślij zgłoszenie",
+    "submitting": "Wysyłanie...",
+    "success": "Dziękujemy! Odezwiemy się wkrótce.",
+    "error": "Coś poszło nie tak. Spróbuj ponownie lub napisz na kontakt@qursy.pl."
+  },
+  "footer": {
+    "description": "Platforma, która pomaga odkrywać warsztaty, kursy i wydarzenia rozwojowe w Twojej okolicy.",
+    "discover": {
+      "title": "Odkrywaj",
+      "workshops": "Warsztaty",
+      "courses": "Kursy",
+      "events": "Wydarzenia",
+      "organizers": "Organizatorzy"
+    },
+    "info": {
+      "title": "Informacje",
+      "about": "O nas",
+      "terms": "Regulamin",
+      "privacy": "Polityka prywatności (RODO)",
+      "cookies": "Polityka cookies"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "email": "kontakt@qursy.pl",
+      "phone": "+48 22 123 45 67",
+      "address": "ul. Wilcza 12, Warszawa"
+    },
+    "copyright": "© {year} <qursy>qursy</qursy>. Wszelkie prawa zastrzeżone.",
+    "dataAdmin": "Administratorem danych osobowych jest <qursy>qursy</qursy> Sp. z o.o."
+  }
+}
