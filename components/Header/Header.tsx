@@ -10,7 +10,6 @@ const NAV = [
   { key: "whatIs", href: "#czym-jest" },
   { key: "benefits", href: "#dla-organizatorow" },
   { key: "howToJoin", href: "#jak-dolaczyc" },
-  { key: "apply", href: "#zgloszenie" },
 ] as const;
 
 export function Header() {
